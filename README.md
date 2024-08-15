@@ -1,1 +1,1 @@
-# Factor-Analysis-on-Sport-Events
+Applied Principle Component Analysis on time taken by 50 countries for various track events. Obtained two latent variables that explain the highest variation in the dataset. Formulated programming codes in R, Python and SPSS to observe differences in outcome.
